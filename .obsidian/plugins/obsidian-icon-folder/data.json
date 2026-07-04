@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌳",
       "🧠",
       "🗑",
       "📺",
-      "💿",
-      "📅"
+      "💿"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,6 @@
   "Library/Videos": "📺",
   "Trash": "🗑",
   "Knowledge": "🧠",
-  "Attachments": "📎"
+  "Attachments": "📎",
+  "ADRs": "🌳"
 }
