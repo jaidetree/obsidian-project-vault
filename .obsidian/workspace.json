@@ -212,6 +212,7 @@
   },
   "active": "cdc5b5be2f14991b",
   "lastOpenFiles": [
+    "Templates/Project/<project-name>/ADRs",
     "Attachments",
     "Templates/Project/<project-name>/PRD.md",
     "Templates/Project/<project-name>/<project-name>.base",
@@ -224,7 +225,6 @@
     "Templates/Project/<project-name>/issues/Review",
     "Templates/Project/<project-name>/issues",
     "Templates/Project/<project-name>",
-    "Templates/Project",
     "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 8.md",
     "Inbox/Checklist Test.md",
     "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 7.md",
