@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "6c3f1393cb981da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6364a5f9747395e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d159720323928b38",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Templates/Project/<project-name>/<project-name>.base",
+                "viewName": "Board"
+              },
+              "icon": "lucide-kanban-square",
+              "title": "<project-name>"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d74b5767e1a23f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "61c2dd2f5ae46c13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc5b5be2f14991b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "632418d59dbe5a98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "swamp monster",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8752fbb15800212e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66ea4a6dbaae0f89",
+    "type": "split",
+    "children": [
+      {
+        "id": "840d2455700d46c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d09f5f20c2487dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban Test/Kanban Test.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kanban Test"
+            }
+          },
+          {
+            "id": "bc41f24c323fa462",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b34efc08f98377df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea84adea52bc460",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "71ab7296c825323f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ce57bfab2fd5e73f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65fe44d10845d58d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Project/<project-name>/<project-name>.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for <project-name>"
+            }
+          },
+          {
+            "id": "bcee58378792eca6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanban Test/Kanban Test.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kanban Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 555
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
+      "ribbon-divider:ribbon-divider-e35509b0-01d4-42b4-a5fb-b25cf22b5534": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "ribbon-divider:ribbon-divider-228ba624-7db2-4224-9566-7b4168e4044f": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ribbon-divider:ribbon-divider-765bac1e-ede4-4ffc-bc88-82b9f48186d1": false
+    }
+  },
+  "active": "cdc5b5be2f14991b",
+  "lastOpenFiles": [
+    "Attachments",
+    "Templates/Project/<project-name>/PRD.md",
+    "Templates/Project/<project-name>/<project-name>.base",
+    "Templates/Project/<project-name>/issues/Archived",
+    "Templates/Project/<project-name>/issues/Backlog",
+    "Templates/Project/<project-name>/issues/Ready",
+    "Templates/Project/<project-name>/issues/Untitled.md",
+    "Templates/Project/<project-name>/issues/Done",
+    "Templates/Project/<project-name>/issues/In Progress",
+    "Templates/Project/<project-name>/issues/Review",
+    "Templates/Project/<project-name>/issues",
+    "Templates/Project/<project-name>",
+    "Templates/Project",
+    "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 8.md",
+    "Inbox/Checklist Test.md",
+    "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 7.md",
+    "Library/Videos/Full Walkthrough Workflow for AI Coding.md",
+    "Library/Tools/Sandcastle.md",
+    "Notes/Parallelize Agents.md",
+    "Notes/Consider using GitHub Issues for Project Management.md",
+    "Notes/Vertical Slices.md",
+    "Notes/Planning with AI Requires Two Phases.md",
+    "Notes/Own the Planning Stack.md",
+    "Notes/Project Requirements Document.md",
+    "Notes/Grilling Session.md",
+    "Trash/AI Skills Prompt.md",
+    "Notes/AI Skills Prompt.md",
+    "Projects/maker/To Do/Keyring + Holder for Door.md",
+    "Projects/maker/To Do/Shelf for Big Cat's Bed.md",
+    "Projects/maker/To Do/Print Omniboards.md",
+    "Projects/maker/Designing/Charging Dock.md",
+    "Projects/maker/In Progress/Room Shelves.md",
+    "Projects/software/To Do/ClojureScript CMS.md",
+    "Projects/software/To Do/Replicant Logo Updates.md",
+    "Projects/software/To Do/Markdown WYSIWYG Editor.md",
+    "Projects/software/To Do/Jank Logo Updates.md"
+  ]
+}

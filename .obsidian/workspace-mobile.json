@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0f29bf1c43f6df03",
+    "type": "split",
+    "children": [
+      {
+        "id": "9686b0f894b9ec73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af419bc37e7840f4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Events/Big Cat Birthday 2026/Big Cat Birthday 2026 Ideas.base",
+                "viewName": "Board"
+              },
+              "icon": "lucide-kanban-square",
+              "title": "Big Cat Birthday 2026 Ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "068b2308d74ce015",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9d3bef8d229671fb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "535db61353bb51fc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "1592a09a25f1f848",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "bbd956e5c5c8f841",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "42bd89753bd2e402",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0d2ecef8f52be80a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4ffff9384a7657b4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Events/Big Cat Birthday 2026/Big Cat Birthday 2026 Ideas.base",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b951fc3ef8836839",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "05b8729c98ef2142",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "ribbon-divider:ribbon-divider-e35509b0-01d4-42b4-a5fb-b25cf22b5534": false,
+      "ribbon-divider:ribbon-divider-228ba624-7db2-4224-9566-7b4168e4044f": false,
+      "ribbon-divider:ribbon-divider-765bac1e-ede4-4ffc-bc88-82b9f48186d1": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "af419bc37e7840f4",
+  "lastOpenFiles": [
+    "Events/Big Cat Birthday 2026/Ideas/La Maison Du Chocolat SoHo + Shopping.md",
+    "Events/Big Cat Birthday 2026/Ideas/La Maison Du Chocolat SoHo.md",
+    "Events/Big Cat Birthday 2026/Ideas/Spot Dessert Bar.md",
+    "Events/Big Cat Birthday 2026/Ideas/Raku + Fouet @ Hells Kitchen.md",
+    "Events/Big Cat Birthday 2026/Ideas/Sweet Rehab.md"
+  ]
+}
