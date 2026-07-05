@@ -1,12 +1,13 @@
 {
   "userIllegalSymbols": [],
   "ignoredFiles": {},
-  "ignoreRegex": "^Templates|README|todos.md$",
+  "ignoreRegex": "^Templates|README|todos.md|Projects|ADRs$",
   "useFileOpenHook": false,
   "useFileSaveHook": true,
   "newHeadingStyle": "Prefix",
   "replaceStyle": false,
   "underlineString": "===",
   "renameDebounceTimeout": 1000,
-  "insertHeadingIfMissing": true
+  "insertHeadingIfMissing": true,
+  "spaceReplacementCharacter": ""
 }
