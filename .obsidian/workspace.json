@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Templates/Project/<project-name>/<project-name>.base",
+                "file": "Templates/Project/<project-name>/Project Board.base",
                 "viewName": "Board"
               },
               "icon": "lucide-kanban-square",
-              "title": "<project-name>"
+              "title": "Project Board"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project/<project-name>/<project-name>.base",
+                "file": "Templates/Project/<project-name>/Project Board.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for <project-name>"
+              "title": "Backlinks for Project Board"
             }
           },
           {
@@ -216,7 +216,7 @@
     "ADRs",
     "Attachments",
     "Templates/Project/<project-name>/PRD.md",
-    "Templates/Project/<project-name>/<project-name>.base",
+    "Templates/Project/<project-name>/Project Board.base",
     "Templates/Project/<project-name>/issues/Archived",
     "Templates/Project/<project-name>/issues/Backlog",
     "Templates/Project/<project-name>/issues/Ready",
