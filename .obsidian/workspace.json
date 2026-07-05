@@ -212,6 +212,7 @@
   },
   "active": "cdc5b5be2f14991b",
   "lastOpenFiles": [
+    "Domain",
     "Templates/Issue Template.md",
     "ADRs",
     "Attachments",
@@ -246,7 +247,6 @@
     "Projects/maker/In Progress/Room Shelves.md",
     "Projects/software/To Do/ClojureScript CMS.md",
     "Projects/software/To Do/Replicant Logo Updates.md",
-    "Projects/software/To Do/Markdown WYSIWYG Editor.md",
-    "Projects/software/To Do/Jank Logo Updates.md"
+    "Projects/software/To Do/Markdown WYSIWYG Editor.md"
   ]
 }
