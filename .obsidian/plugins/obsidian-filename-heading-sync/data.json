@@ -1,7 +1,7 @@
 {
   "userIllegalSymbols": [],
   "ignoredFiles": {},
-  "ignoreRegex": "^Templates|README|todos.md|Projects|ADRs$",
+  "ignoreRegex": "^Templates|README|CONTEXT|todos.md|Projects|ADRs$",
   "useFileOpenHook": false,
   "useFileSaveHook": true,
   "newHeadingStyle": "Prefix",
