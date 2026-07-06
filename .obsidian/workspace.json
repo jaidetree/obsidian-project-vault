@@ -19,8 +19,24 @@
               "icon": "lucide-kanban-square",
               "title": "Project Board"
             }
+          },
+          {
+            "id": "ea069dc9c28966aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project/<project-name>/Project Board.base",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project Board"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -212,12 +228,14 @@
   },
   "active": "cdc5b5be2f14991b",
   "lastOpenFiles": [
+    "Templates/Project/<project-name>/Project Board.base",
+    "README.md",
+    "Test.md",
     "Domain",
     "Templates/Issue Template.md",
     "ADRs",
     "Attachments",
     "Templates/Project/<project-name>/PRD.md",
-    "Templates/Project/<project-name>/Project Board.base",
     "Templates/Project/<project-name>/issues/Archived",
     "Templates/Project/<project-name>/issues/Backlog",
     "Templates/Project/<project-name>/issues/Ready",
@@ -225,7 +243,6 @@
     "Templates/Project/<project-name>/issues/Done",
     "Templates/Project/<project-name>/issues/In Progress",
     "Templates/Project/<project-name>/issues/Review",
-    "Templates/Project/<project-name>/issues",
     "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 8.md",
     "Inbox/Checklist Test.md",
     "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 7.md",
@@ -245,8 +262,6 @@
     "Projects/maker/To Do/Print Omniboards.md",
     "Projects/maker/Designing/Charging Dock.md",
     "Projects/maker/In Progress/Room Shelves.md",
-    "Projects/software/To Do/ClojureScript CMS.md",
-    "Projects/software/To Do/Replicant Logo Updates.md",
-    "Projects/software/To Do/Markdown WYSIWYG Editor.md"
+    "Projects/software/To Do/ClojureScript CMS.md"
   ]
 }
