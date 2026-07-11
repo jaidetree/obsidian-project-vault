@@ -13,30 +13,27 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Templates/Project/<project-name>/Project Board.base",
-                "viewName": "Board"
+                "file": "Knowledge/Knowledge.base",
+                "viewName": "All"
               },
-              "icon": "lucide-kanban-square",
-              "title": "Project Board"
+              "icon": "lucide-table",
+              "title": "Knowledge"
             }
           },
           {
             "id": "ea069dc9c28966aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Knowledge/Knowledge.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "Knowledge"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Knowledge/Knowledge.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Knowledge"
             }
           },
           {
@@ -226,10 +223,18 @@
       "ribbon-divider:ribbon-divider-765bac1e-ede4-4ffc-bc88-82b9f48186d1": false
     }
   },
-  "active": "cdc5b5be2f14991b",
+  "active": "bc41f24c323fa462",
   "lastOpenFiles": [
+    "Knowledge/Test.md",
+    "Knowledge/Knowledge.base",
     "Templates/Project/<project-name>/Project Board.base",
     "README.md",
+    "_PROTOTYPE-knowledge-base/Knowledge.base",
+    "_PROTOTYPE-knowledge-base/Bases Filter Enables Scoped Recall.md",
+    "_PROTOTYPE-knowledge-base/Headless Frontmatter Scan.md",
+    "_PROTOTYPE-knowledge-base/Vault CLI Needs Running Obsidian.md",
+    "_PROTOTYPE-knowledge-base/Heredoc Commit Messages Escape HOME.md",
+    "_PROTOTYPE-knowledge-base",
     "Test.md",
     "Domain",
     "Templates/Issue Template.md",
@@ -240,9 +245,6 @@
     "Templates/Project/<project-name>/issues/Backlog",
     "Templates/Project/<project-name>/issues/Ready",
     "Templates/Project/<project-name>/issues/Untitled.md",
-    "Templates/Project/<project-name>/issues/Done",
-    "Templates/Project/<project-name>/issues/In Progress",
-    "Templates/Project/<project-name>/issues/Review",
     "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 8.md",
     "Inbox/Checklist Test.md",
     "Reading Notes/Mastering Typescript/Mastering TypeScript - Chapter 7.md",
@@ -257,11 +259,6 @@
     "Notes/Grilling Session.md",
     "Trash/AI Skills Prompt.md",
     "Notes/AI Skills Prompt.md",
-    "Projects/maker/To Do/Keyring + Holder for Door.md",
-    "Projects/maker/To Do/Shelf for Big Cat's Bed.md",
-    "Projects/maker/To Do/Print Omniboards.md",
-    "Projects/maker/Designing/Charging Dock.md",
-    "Projects/maker/In Progress/Room Shelves.md",
-    "Projects/software/To Do/ClojureScript CMS.md"
+    "Projects/maker/To Do/Keyring + Holder for Door.md"
   ]
 }
