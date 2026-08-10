@@ -4,17 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "90c610a593cdd8de",
+        "id": "6364a5f9747395e4",
         "type": "tabs",
         "children": [
           {
-            "id": "bd3b9946edf4fdeb",
+            "id": "d159720323928b38",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
                 "file": "Knowledge/Knowledge.base",
                 "viewName": "All"
+              },
+              "icon": "lucide-table",
+              "title": "Knowledge"
+            }
+          },
+          {
+            "id": "ea069dc9c28966aa",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Knowledge/Knowledge.base",
+                "viewName": "Table"
               },
               "icon": "lucide-table",
               "title": "Knowledge"
@@ -40,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Knowledge"
+              "title": "Backlinks"
             }
           },
           {
@@ -199,20 +214,21 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
+      "ribbon-divider:ribbon-divider-e35509b0-01d4-42b4-a5fb-b25cf22b5534": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "ribbon-divider:ribbon-divider-e35509b0-01d4-42b4-a5fb-b25cf22b5534": false,
       "ribbon-divider:ribbon-divider-228ba624-7db2-4224-9566-7b4168e4044f": false,
-      "ribbon-divider:ribbon-divider-765bac1e-ede4-4ffc-bc88-82b9f48186d1": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ribbon-divider:ribbon-divider-765bac1e-ede4-4ffc-bc88-82b9f48186d1": false
     }
   },
-  "active": "cdc5b5be2f14991b",
+  "active": "bc41f24c323fa462",
   "lastOpenFiles": [
     "Inbox",
+    "Templates/Project/<project-name>/Spec.md",
     "Knowledge/Test.md",
     "Knowledge/Knowledge.base",
     "Templates/Project/<project-name>/Project Board.base",
@@ -246,7 +262,6 @@
     "Notes/Project Requirements Document.md",
     "Notes/Grilling Session.md",
     "Trash/AI Skills Prompt.md",
-    "Notes/AI Skills Prompt.md",
-    "Projects/maker/To Do/Keyring + Holder for Door.md"
+    "Notes/AI Skills Prompt.md"
   ]
 }
